@@ -5,4 +5,3 @@ matplotlib
 scikit-learn
 joblib
 reportlab
-sqlite3 (built-in)
